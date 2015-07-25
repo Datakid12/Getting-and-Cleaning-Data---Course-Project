@@ -1,2 +1,6 @@
 # Getting-and-Cleaning-Data---Course-Project
-This is the course project submission for Coursera "Getting and Cleaning Data".
+This is the code book describing how the script works and the variables for Coursera "Getting and Cleaning Data".
+
+
+
+
